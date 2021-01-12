@@ -538,28 +538,7 @@ textarea:focus, input:focus{
 
 ::placeholder {color: #8b73ff; opacity: 70%;}
 
-@media screen and (max-width: 500px) { 
-  #lettering-svg{width: 15rem;}
-  #lettering-svg2{width: 15rem;}
-  #record{width: 15rem;}
-  #record2{width: 15rem;}
-  #records{top: 7rem;}
-  html {--mainfontsize: 0.8rem;}
-  .one{height: 25rem;}
-  .p1 {margin-left: auto;}
-  .p2 {margin-right: auto;}
-  .p3 {margin-left: auto;}
-  .hot-dog {font-size:2em; margin-bottom: -0.3em;}
-  .feature-title{font-size:3em;}
-  .FAQ{font-size:3em;}
-  button {font-size: 1.2rem; min-width: none; width:100%; display:static; margin-left: none; margin-right: none;}
-  ul {padding: 0;}
-  .price {font-size: 2.5rem;}
-  .small-looks {font-size: 1.8rem;}
 
-  .better {padding-top: 0.5rem;}
-  label {font-size: 1.5rem;}
-}
 
 .divider3{
   position: relative;
@@ -604,3 +583,25 @@ textarea:focus, input:focus{
   height: 20rem; 
 }
 
+@media screen and (max-width: 500px) { 
+  #lettering-svg{width: 15rem;}
+  #lettering-svg2{width: 15rem;}
+  #record{width: 15rem;}
+  #record2{width: 15rem;}
+  #records{top: 7rem;}
+  html {--mainfontsize: 0.8rem;}
+  .one{height: 25rem;}
+  .p1 {margin-left: auto;}
+  .p2 {margin-right: auto;}
+  .p3 {margin-left: auto;}
+  .hot-dog {font-size:2em; margin-bottom: -0.3em;}
+  .feature-title{font-size:3em;}
+  .FAQ{font-size:3em;}
+  button {font-size: 1.2rem; min-width: none; width:100%; display:static; margin-left: none; margin-right: none;}
+  ul {padding: 0;}
+  .price {font-size: 2.5rem;}
+  .small-looks {font-size: 1.8rem;}
+  #line1, #line2, #line3, #line4 {width:380rem;}}
+  .better {padding-top: 0.5rem;}
+  label {font-size: 1.5rem;}
+}
