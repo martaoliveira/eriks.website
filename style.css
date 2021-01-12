@@ -597,11 +597,27 @@ textarea:focus, input:focus{
   .hot-dog {font-size:2em; margin-bottom: -0.3em;}
   .feature-title{font-size:3em;}
   .FAQ{font-size:3em;}
-  button {font-size: 1.2rem; min-width: none; width:100%; display:static; margin-left: none; margin-right: none;}
+  button {font-size: 1.2rem; min-width:90%; display:static; margin-left: none; margin-right: none;}
+  .answercontainer {max-width: 95%;}
   ul {padding: 0;}
   .price {font-size: 2.5rem;}
   .small-looks {font-size: 1.8rem;}
-  #line1, #line2, #line3, #line4 {width:380rem;}}
+  #line1, #line2, #line3, #line4 {width:380rem;}
   .better {padding-top: 0.5rem;}
   label {font-size: 1.5rem;}
-}
+  #divider {margin-bottom:-1.4rem;}
+  @keyframes slide {
+    1% {left:-100rem;;}
+    26%{ left:-200rem;;}
+    45% {left:-100rem;;}
+    75%{ left:-200rem;;}
+    95% {left:-100rem;;}
+  }
+  
+  @keyframes slidereverse {
+    5%{ left:-200rem;;}
+    25% {left:-100rem;;}
+    45%{ left:-200rem;;}
+    75% {left:-100rem;;}
+    95%{ left:-200rem;;}
+  }}
