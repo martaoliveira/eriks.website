@@ -142,7 +142,7 @@ body{
     font-size:var(--mainfontsize);
     letter-spacing: 0.1em;
     font-weight: 900;
-    color:#f517ff;
+    color:#2edeff;
     text-align: left;
     min-width:25em;
     max-width:65%;
@@ -551,10 +551,10 @@ textarea:focus, input:focus{
   .hot-dog {font-size:2em; margin-bottom: -0.3em;}
   .feature-title{font-size:3em;}
   .FAQ{font-size:3em;}
-  button {font-size: 1.5rem; min-width: none; width:100%; display:static; margin-left: none; margin-right: none;}
+  button {font-size: 1rem; min-width: none; width:100%; display:static; margin-left: none; margin-right: none;}
   ul {padding: 0;}
   .price {font-size: 2.5rem;}
-  .small-looks {font-size: 2.3rem;}
+  .small-looks {font-size: 1.5rem;}
   .better {padding-top: 0.5rem;}
   label {font-size: 1.7rem;}
 }
