@@ -475,7 +475,7 @@ button {
 button:hover {text-decoration: none;
     opacity: 1;}
 
-.question2{color:#73ff9b;} .question3{color:#3eeeff;} .question4{color:#8b73ff;}
+  .question{margin-left:15% !important;}.question2{color:#73ff9b; } .question3{color:#3eeeff;} .question4{color:#8b73ff;}
 
 .answercontainer{
   background-color:black;
@@ -599,6 +599,7 @@ textarea:focus, input:focus{
   .FAQ{font-size:3em;}
   button {font-size: 1.2rem; min-width:90%; display:static; margin-left: none; margin-right: none;}
   .answercontainer {max-width: 95%;}
+  .question{margin-left:auto !important;}
   ul {padding: 0;}
   .price {font-size: 2.5rem;}
   .small-looks {font-size: 1.8rem;}
