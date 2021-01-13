@@ -591,6 +591,7 @@ textarea:focus, input:focus{
   #records{top: 7rem;}
   html {--mainfontsize: 0.8rem;}
   .one{height: 25rem;}
+  .pink {width: 95%;}
   .p1 {margin-left: auto;}
   .p2 {margin-right: auto;}
   .p3 {margin-left: auto;}
