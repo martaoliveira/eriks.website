@@ -144,7 +144,7 @@ body{
     font-weight: 900;
     color:#f517ff;
     text-align: left;
-    min-width:25em;
+    min-width:21em;
     max-width:65%;
     margin-left:auto;
     margin-right:auto;
@@ -208,7 +208,7 @@ body{
 
   @media screen and (max-width: 777px) { 
     .hot-dog{
-    margin-bottom: -1.2rem;}
+    margin-bottom: -2.4rem;}
   }
 
 .p1 {
