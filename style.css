@@ -596,7 +596,7 @@ textarea:focus, input:focus{
   .p1 {margin-left: auto;}
   .p2 {margin-right: auto;}
   .p3 {margin-left: auto;}
-  .hot-dog {font-size:2em; margin-bottom: -0.3em;}
+  .hot-dog {font-size:2em; margin-bottom: -0.7em;}
   .feature-title{font-size:3em;}
   .FAQ{font-size:3em;}
   button {font-size: 1.2rem; min-width:90%; display:static; margin-left: none; margin-right: none;}
