@@ -65,20 +65,20 @@ body{
   #letters{
     z-index:1;
     position:absolute;
-    top:0;
+    top:-0.8rem;
     left:50%;
-    transform: translate(-50%, 0);
+    transform: translate(-53.8%, 0);
     width:100%; }
   
   #lettering-svg{
     animation:movement-left2 1.5s forwards;
-    width:20rem;
+    width:28.3rem;
     position:absolute;
     transform: translate(-50%, 0);}
   
   #lettering-svg2{
     animation:movement-right2 1.5s forwards;
-    width:20rem;
+    width:28.3rem;
     position:absolute;
     transform: translate(-50%, 0);}
   
