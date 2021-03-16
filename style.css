@@ -63,10 +63,11 @@ body{
 
   #letters{
     z-index:1;
-    position:absolute;
+    position:absolute;  
+    margin-left: -1.5rem;
     top:-0.8rem;
     left:50%;
-    transform: translate(-53.8%, 0);
+    transform: translate(-50%, 0);
     width:100%; }
   
   #lettering-svg{
@@ -584,8 +585,8 @@ textarea:focus, input:focus{
 }
 
 @media screen and (max-width: 500px) { 
-  #lettering-svg{width: 15rem;}
-  #lettering-svg2{width: 15rem;}
+  #lettering-svg{width: 21rem;}
+  #lettering-svg2{width: 21rem;}
   #record{width: 15rem;}
   #record2{width: 15rem;}
   #records{top: 7rem;}
