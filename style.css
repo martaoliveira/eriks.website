@@ -71,13 +71,13 @@ body{
   
   #lettering-svg{
     animation:movement-left2 1.5s forwards;
-    width:28.3rem;
+    width:28.2rem;
     position:absolute;
     transform: translate(-50%, 0);}
   
   #lettering-svg2{
     animation:movement-right2 1.5s forwards;
-    width:28.3rem;
+    width:28.2rem;
     position:absolute;
     transform: translate(-50%, 0);}
   
